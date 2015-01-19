@@ -5,7 +5,7 @@ In order to track User fields, you can install our package to your Salesforce Or
 https://login.salesforce.com/packaging/installPackage.apexp?p0=04t90000000BAl1
 
 #Screenshots
- ![ScreenShot](https://github.com/SalesforceApp/Delete-Mass-Data/blob/master/imgs/Main.png)
+ ![ScreenShot](https://github.com/SalesforceApp/History-Tracking-for-Users/blob/master/Main.png)
 
 *Please donate some money to our team if this package is useful for you. Our Paypal ID is samba.gao@hotmail.com.*
 
