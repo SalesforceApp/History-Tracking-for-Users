@@ -2,7 +2,7 @@
 In order to track User fields, you can install our package to your Salesforce Org. This is an unmanaged package, we have tested it more times.
 
 #Installation URL
-https://login.salesforce.com/packaging/installPackage.apexp?p0=04t90000000BAl1
+https://login.salesforce.com/packaging/installPackage.apexp?p0=04t90000000BAlf
 
 #Screenshots
  ![ScreenShot](https://github.com/SalesforceApp/History-Tracking-for-Users/blob/master/Main.png)
